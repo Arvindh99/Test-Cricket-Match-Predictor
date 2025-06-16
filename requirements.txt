@@ -1,0 +1,8 @@
+gradio
+pandas
+scikit-learn
+matplotlib
+joblib
+pickle
+sqlite3
+numpy
